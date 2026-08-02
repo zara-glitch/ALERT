@@ -1,0 +1,6 @@
+{
+  "name": "AlertNow",
+  "description": "A production-grade Emergency Response Platform with secure authentication, medical profiles, location-based safety routing, and server-side Gemini-powered smart emergency triage.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

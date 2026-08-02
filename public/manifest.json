@@ -1,0 +1,24 @@
+{
+  "name": "AlertNow Emergency Platform",
+  "short_name": "AlertNow SOS",
+  "description": "Instant Emergency Connection, Voice SOS Activation & Medical Protection",
+  "start_url": "/?utm_source=pwa",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#0A0A0A",
+  "orientation": "portrait",
+  "shortcuts": [
+    {
+      "name": "Voice SOS Trigger (Outside App)",
+      "short_name": "Voice SOS",
+      "description": "Trigger instant Voice SOS from phone lock screen or home screen",
+      "url": "/?trigger=voice"
+    },
+    {
+      "name": "Emergency SOS Dispatch",
+      "short_name": "Emergency SOS",
+      "description": "Activate Emergency Rescue Dispatch",
+      "url": "/?sos=true"
+    }
+  ]
+}
